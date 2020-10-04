@@ -1,4 +1,4 @@
-# localize
+# Localize
 
 A new Flutter application.
 
